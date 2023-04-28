@@ -2,7 +2,7 @@
 
 This repo is for my personal collection of Illustrator scripts.
 
-Some of these scripts were written by me, some of them written by other humans on the internet.
+Some of these scripts were written by me, some of them written by other humans on the internet - and labeled accordingly.
 
 
 
