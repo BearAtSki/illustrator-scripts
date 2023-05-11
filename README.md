@@ -7,11 +7,13 @@ Function over form - that's probably the best way to describe them, meaning my c
 #### Swatch Group from Hexadecimal colors
 Make Illustrator swatches from a series of HEX codes
 There's a version with a Dialog window where you can paste in your hex codes and a "quick" version that takes the text from the clipboard.
-Works great with Coolors.co links, CSS code from Adobe Color or any other text containing HEX codes.
+Works great with [Coolors](https://coolors.co/) links, CSS code from [Adobe Color](https://color.adobe.com/explore) or any other text containing HEX codes.
 
-[addSwatchGroup](./all%20them%20Scripts/addSwatchGroup.jsx) - w/ Dialog Window
+![Dialog Window](./img/swatch-group-from-hex-codes.png)
 
-[quickAddSwatchGroup](./all%20them%20Scripts/quickAddSwatchGroup.jsx) - Without Dialog
+[addSwatchGroup](./all%20them%20Scripts/addSwatchGroup.jsx) - with Dialog Window
+
+[quickAddSwatchGroup](./all%20them%20Scripts/quickAddSwatchGroup.jsx) - without Dialog
 
 #### Gradient from Hex
 Make Illustrator Gradient swatch from a series of HEX codes. </br>
@@ -21,8 +23,11 @@ Create a gradient with the [generator](https://www.learnui.design/tools/gradient
 
 
 #### Shear and Rotate
-Found this gem on the internet, a script to create non-destructive Shear using Transform Effects.
+Found this gem on the [internet](http://sysys.blog.shinobi.jp/Entry/53/), a script to create non-destructive Shear using Transform Effects.
 Most of the time I also rotate the objects at the shear angle, so added a checkbox for that, and translated the script to english.
+Select the objects you want to shear and run the script.
+
+![Shear Scripts Comparison](./img/shear-comparison.png)
 
 [shearNrotate](./all%20them%20Scripts/shearNrotate.jsx)
 
