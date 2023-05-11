@@ -11,15 +11,15 @@ Works great with [Coolors](https://coolors.co/) links, CSS code from [Adobe Colo
 
 ![Dialog Window](./img/swatch-group-from-hex-codes.png)
 
-[addSwatchGroup](./all%20them%20Scripts/addSwatchGroup.jsx) - with Dialog Window
+ 📝 [addSwatchGroup](./all%20them%20Scripts/addSwatchGroup.jsx) - with Dialog Window
 
-[quickAddSwatchGroup](./all%20them%20Scripts/quickAddSwatchGroup.jsx) - without Dialog
+ 📝 [quickAddSwatchGroup](./all%20them%20Scripts/quickAddSwatchGroup.jsx) - without Dialog
 
 #### Gradient from Hex
 Make Illustrator Gradient swatch from a series of HEX codes. </br>
 Create a gradient with the [generator](https://www.learnui.design/tools/gradient-generator.html), copy the CSS code and run the script.
 
-[quickAddGradient](./all%20them%20Scripts/quickAddGradient.jsx)
+ 📝 [quickAddGradient](./all%20them%20Scripts/quickAddGradient.jsx)
 
 
 #### Shear and Rotate
@@ -29,7 +29,7 @@ Select the objects you want to shear and run the script.
 
 ![Shear Scripts Comparison](./img/shear-comparison.png)
 
-[shearNrotate](./all%20them%20Scripts/shearNrotate.jsx)
+ 📝 [shearNrotate](./all%20them%20Scripts/shearNrotate.jsx)
 
 
 
