@@ -16,7 +16,7 @@ var numOfDuplicates = 0;
 
 
 // Creating the Dialog Panel
-var dlg = new Window("dialog{text:'Swatch from HEX Code'}");
+var dlg = new Window("dialog{text:'Swatch Group from HEX Codes'}");
 
 myDlg();
 
